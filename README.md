@@ -1,2 +1,1 @@
-# pullreq
-My Pull Request (pullreq) training repository
+# Hi! this is my pull request training
